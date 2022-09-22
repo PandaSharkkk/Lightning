@@ -3,7 +3,7 @@ void setup(){
  background(50, 50, 70);
  strokeWeight(3);
  noFill();
- frameRate(45);
+ frameRate(15);
  stroke(#E3D03E);
 }
 
